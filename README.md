@@ -41,7 +41,7 @@ else:
 #(Poskušal sem narediti zanko ponavljanja, dokler ne bi ugotovili pravilne skrivne številke. Ni mi uspelo. Kako bi jo naredil?)
 
 
-#Homework 1.3: Calculator
+# Homework 1.3: Calculator
 
 stevilo1 = int(input("Vnesite željeno naravno število: "))
 stevilo2 = int(input("Vnesite drugo naravno število: "))
